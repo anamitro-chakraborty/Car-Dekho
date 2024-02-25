@@ -1,0 +1,8 @@
+# Read Cars Data
+# Total cars : to get a count of total records
+# How many cars will be available in 2023?
+# How many cars is available in 32020, 2021, 2022?
+# Print the total of all cars by year. I don't see all the details.
+# How many diesel cars will be in 2020?
+# How many petrol cars will be in 2020?
+# Print all the fuel cars ( petrol, diesel, and cng) come by all year
